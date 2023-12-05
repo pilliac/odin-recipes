@@ -1,3 +1,17 @@
+* {
+	border: 2px solid red;
+}
+
+body {
+	min-height: 100vh;
+	background-color: whitesmoke;
+	color: #181818;
+	padding: 0;
+}
+
+.content {
+}
+
 a {
 	color: royalblue;
 	text-decoration: none;
@@ -6,11 +20,4 @@ a {
 ul li a {
 	color: #181818;
 	text-decoration: none;
-}
-
-body,
-.color-scheme-wrapper {
-	min-height: 100vh;
-	background-color: whitesmoke;
-	color: #181818;
 }
