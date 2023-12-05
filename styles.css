@@ -1,0 +1,16 @@
+a {
+	color: royalblue;
+	text-decoration: none;
+}
+
+ul li a {
+	color: #181818;
+	text-decoration: none;
+}
+
+body,
+.color-scheme-wrapper {
+	min-height: 100vh;
+	background-color: whitesmoke;
+	color: #181818;
+}
